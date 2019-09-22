@@ -8,7 +8,7 @@ Pattern Recognition &amp; Machine Learning
 자료를 저장하는 공간입니다.
 
 # 기간 
-Sun. 16. 06. 2019 ~ Sun. 11. 08. 2019
+Sun. 16. 06. 2019 ~ Sun. 11. 08. 2019                                     
 스터디 이후에도 계손 혼자 공부하는 중 (현재는 Chap11. Sampling)
 Chapter 4 자료만드는중 
 
