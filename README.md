@@ -9,9 +9,12 @@ Pattern Recognition &amp; Machine Learning
 
 # 기간 
 Sun. 16. 06. 2019 ~ Sun. 11. 08. 2019                                     
-스터디 이후에도 계손 혼자 공부하고 Chapter 4 자료만드는중 
+스터디 이후에도 계손 혼자 공부하는중 <나중에 PRML 다시 스터디하기 위한 대비 자료 만들어 놓기>
 
 # 학습범위 
-Chapter 1 ~ Chapter 9
+Chapter 1 ~ Chapter 11
+
+# PS
+학부생이 만든 자료라 부족한 부분이 많습니다. Any feedback is ardently welcomed.
 
 
