@@ -9,6 +9,9 @@ Pattern Recognition &amp; Machine Learning
 
 # 기간 
 Sun. 16. 06. 2019 ~ Sun. 11. 08. 2019
+스터디 이후에도 계손 혼자 공부하는 중 (현재는 Chap11. Sampling)
+Chapter 4 자료만드는중 
+
 # 학습범위 
 Chapter 1 ~ Chapter 9
 
